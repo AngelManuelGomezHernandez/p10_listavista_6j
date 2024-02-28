@@ -22,3 +22,8 @@ samples, guidance on mobile development, and a full API reference.
 
 - Propiedades ListView https://flutlab.io/docs
 - Angel Gomez 6J
+
+  ## Imagenes
+ ![image](https://github.com/AngelManuelGomezHernandez/p10_listavista_6j/assets/143548268/65442e7b-9754-4413-b99d-cb0d4ab37193)
+
+
