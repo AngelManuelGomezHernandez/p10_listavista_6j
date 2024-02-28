@@ -21,4 +21,4 @@ samples, guidance on mobile development, and a full API reference.
   ## Aplicacion listview: FlutLab - Flutter Online IDE
 
 - Propiedades ListView https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+- Angel Gomez 6J
